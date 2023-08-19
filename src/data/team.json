@@ -1,0 +1,26 @@
+{
+  "id": "06",
+  "title": "TEAM",
+  "description": "MEET US",
+
+  "members": [
+    {
+      "className": "direction-left",
+      "name": "Vanessa Michaels",
+      "position": "DEVELOPER",
+      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+    },
+    {
+      "className": "direction-right top-100",
+      "name": "Joan Williams",
+      "position": "DESIGNER",
+      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+    },
+    {
+      "className": "direction-left top-100",
+      "name": "Elle Raynolds",
+      "position": "DEVELOPER",
+      "desc": "Code the energy hidden in matter citizens of distant epochs sun. Citizens of distant epochs encyclopaedia galant ctica the ash of stellar alchemy Vangelis white dwarf adipisci velit. Nemo enim ipsam volupta tem quia voluptas sit aspernatur aut odit aut fugit radio telescope quis nostrum exercitatio nem ullam corporis suscipit laboriosam quis."
+    }
+  ]
+}

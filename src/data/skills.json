@@ -1,0 +1,31 @@
+{
+  "id": "05",
+  "title": "SKILLS",
+  "description": "WHAT WE KNOW",
+
+  "heading": "Check our \nSkills",
+  "paragraph": "Accusantium doloremque laudantium venture dream of the mind’s eye rich in heavy vel convallis justo sagittis congue.",
+
+  "progress": [
+    {
+      "title": "BRANDING",
+      "percentage": 75
+    },
+    {
+      "title": "COOKING",
+      "percentage": 20
+    },
+    {
+      "title": "PHP",
+      "percentage": 90
+    },
+    {
+      "title": "MARKETING",
+      "percentage": 65
+    },
+    {
+      "title": "DESIGN",
+      "percentage": 85
+    }
+  ]
+}

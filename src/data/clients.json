@@ -1,0 +1,19 @@
+{
+  "reviews": [
+    {
+      "review": "Curabitur cursus mattis ligula a maximus pellentesque in purus malesuada, pharetra eros id, malesuada diam vivamus eu gravida lacus nulla at consectetur quam vestibulum ac arcu sed.",
+      "name": "Jane Williams",
+      "position": "DESIGNER"
+    },
+    {
+      "review": " Suspendisse enim erat, vehicula sit amet odio eu, congue gravida magna mauris a ex aliquam, ornare tortor sit amet, placerat ante aenean sit amet sem et metus elementum pellentesque.",
+      "name": "John Smith",
+      "position": "GURU"
+    },
+    {
+      "review": "Vivamus quis ante varius, pretium lectus ut, tempor eros maecenas vitae purus lobortis, pulvinar lorem eu, porta elit suspendisse blandit porta magna, nec scelerisque urna viverra lorem gravida.",
+      "name": "Peter Hall",
+      "position": "CEO"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "navLinks": [
+    {
+      "to": "home",
+      "text": "Home"
+    },
+    {
+      "to": "services",
+      "text": "Services"
+    },
+
+    {
+      "to": "portfolio",
+      "text": "Portfolio"
+    },
+    {
+      "to": "clients",
+      "text": "Clients"
+    },
+    {
+      "to": "news",
+      "text": "News"
+    },
+    {
+      "to": "skills",
+      "text": "Skills"
+    },
+    {
+      "to": "team",
+      "text": "Team"
+    },
+    {
+      "to": "milestones",
+      "text": "Milestones"
+    },
+    {
+      "to": "about",
+      "text": "About"
+    },
+    {
+      "to": "pricing",
+      "text": "Pricing"
+    },
+    {
+      "to": "contact",
+      "text": "Contact"
+    }
+  ],
+
+  "internalLinks": [
+    {
+      "to": "blog",
+      "text": "Blog"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "01",
+  "title": "SERVICES",
+  "description": "WHAT WE DO",
+
+  "servicesBoxes": [
+    {
+      "order": "I",
+      "servTitle": "Design",
+      "desc": "Clean birth consciousness cosmic ocean citizens of distant epochs",
+      "bottomSpace": true
+    },
+    {
+      "order": "II",
+      "servTitle": "Code",
+      "desc": "Kindling the energy hidden in matter a mote of dust suspended blues",
+      "bottomSpace": true
+    },
+    {
+      "order": "III",
+      "servTitle": "Support",
+      "desc": "Extraplanetary how far away equation with pretty stories for little good",
+      "bottomSpace": true
+    },
+    {
+      "order": "IV",
+      "servTitle": "Marketing",
+      "desc": "Realm of the galaxies sed ut spiciatis unde omnis iste natus error",
+      "bottomSpace": true
+    },
+    {
+      "order": "V",
+      "servTitle": "Social",
+      "desc": "Est sem integer suscipit enim quis dictum feugiat etiam pellentesque",
+      "bottomSpace": true
+    },
+    {
+      "order": "VI",
+      "servTitle": "Trust",
+      "desc": "Donec vel est sem integer suscipit enim quis lorem posuere vestibulum",
+      "bottomSpace": true
+    }
+  ]
+}

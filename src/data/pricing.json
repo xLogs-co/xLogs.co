@@ -1,0 +1,102 @@
+{
+  "id": "09",
+  "title": "PRICING",
+  "description": "CHOOSE PLAN",
+
+  "plans": [
+    {
+      "title": "BASIC",
+      "price": "$25",
+      "desc": "PER MONTH",
+      "features": [
+        {
+          "exist": true,
+          "text": "Unlimited Support"
+        },
+        {
+          "exist": true,
+          "text": "5GB Server Space"
+        },
+        {
+          "exist": true,
+          "text": "2 Users per Project"
+        },
+        {
+          "exist": false,
+          "text": "Email Integration"
+        },
+        {
+          "exist": false,
+          "text": "Unlimited Download"
+        }
+      ],
+      "selectButton": {
+        "text": "CHOOSE PLAN",
+        "to": "/"
+      }
+    },
+    {
+      "title": "ADVANCED",
+      "price": "$50",
+      "desc": "PER MONTH",
+      "features": [
+        {
+          "exist": true,
+          "text": "Unlimited Support"
+        },
+        {
+          "exist": true,
+          "text": "5GB Server Space"
+        },
+        {
+          "exist": true,
+          "text": "2 Users per Project"
+        },
+        {
+          "exist": true,
+          "text": "Email Integration"
+        },
+        {
+          "exist": false,
+          "text": "Unlimited Download"
+        }
+      ],
+      "selectButton": {
+        "text": "CHOOSE PLAN",
+        "to": "/"
+      }
+    },
+
+    {
+      "title": "EXPERT",
+      "price": "$75",
+      "desc": "PER MONTH",
+      "features": [
+        {
+          "exist": true,
+          "text": "Unlimited Support"
+        },
+        {
+          "exist": true,
+          "text": "5GB Server Space"
+        },
+        {
+          "exist": true,
+          "text": "2 Users per Project"
+        },
+        {
+          "exist": true,
+          "text": "Email Integration"
+        },
+        {
+          "exist": true,
+          "text": "Unlimited Download"
+        }
+      ],
+      "selectButton": {
+        "text": "CHOOSE PLAN",
+        "to": "/"
+      }
+    }
+  ]
+}

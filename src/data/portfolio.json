@@ -1,0 +1,44 @@
+{
+  "id": "02",
+  "title": "PORTFOLIO",
+  "description": "CHECK OUR WORK",
+
+  "pargraph1": "We are Meelo. \nCreative agency from NY.",
+  "pargraph2": "Natus error sit volup em in heavy atoms star stuff.",
+  "pargraph3": "Dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla.",
+
+  "portfolioItems": [
+    {
+      "order": 0,
+      "className": "p_one_half",
+      "info": {
+        "desc": "INTERIOR",
+        "title": "Light"
+      }
+    },
+    {
+      "order": 1,
+      "className": "p_one_half",
+      "info": {
+        "desc": "BRANDING",
+        "title": "Packaging"
+      }
+    },
+    {
+      "order": 2,
+      "className": "p_one_fourth",
+      "info": {
+        "desc": "CREATIVE",
+        "title": "PSD Mockup"
+      }
+    },
+    {
+      "order": 3,
+      "className": "p_one_fourth",
+      "info": {
+        "desc": "ARCHITECTURE",
+        "title": "Pillars"
+      }
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "10",
+  "title": "CONTACT",
+  "description": "STAY IN TOUCH",
+
+  "paragrapgs": [
+    "Because that challenge is one that we are willing to accept one we are.",
+    "Because they are hard, because that goal will serve to organize and measure the best of our energies and skills."
+  ],
+
+  "contactInfo": [
+    {
+      "title": "WEB",
+      "link": {
+        "to": "https://cocobasic.com",
+        "text": "www.cocobasic.com"
+      }
+    },
+    {
+      "title": "ADDRESS",
+      "link": {
+        "to": "https://www.google.rs/maps/place/New+York,+NY,+USA/@40.6971494,-74.2598655,10z/data=!3m1!4b1!4m5!3m4!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!8m2!3d40.7127753!4d-74.0059728",
+        "text": "New York, NY, United States"
+      }
+    },
+    {
+      "title": "PHONE",
+      "link": {
+        "to": "tel:123456789",
+        "text": "+123.456.789"
+      }
+    },
+    {
+      "title": "HOURS",
+      "value": "6:00 am – 2:00 am"
+    }
+  ],
+
+  "formspreeEndpoint": "https://formspree.io/f/xgebyqqz"
+}

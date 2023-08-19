@@ -1,0 +1,34 @@
+{
+  "id": "04",
+  "title": "NEWS",
+  "description": "UPDATES",
+  "articles": [
+    {
+      "to": "/single",
+      "tags": ["Design", "Music"],
+      "info": {
+        "title": "How to write rogue mote of dust love",
+        "date": "September 10, 2018",
+        "author": "John Smith"
+      }
+    },
+    {
+      "to": "/single",
+      "tags": ["CSS", "Video"],
+      "info": {
+        "title": "Epochs encyclopa galactica stellar",
+        "date": "September 10, 2018",
+        "author": "John Smith"
+      }
+    },
+    {
+      "to": "/single",
+      "tags": ["Music"],
+      "info": {
+        "title": "Connection of paper and web makes",
+        "date": "September 10, 2018",
+        "author": "John Smith"
+      }
+    }
+  ]
+}

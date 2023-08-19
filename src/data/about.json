@@ -1,0 +1,35 @@
+{
+  "id": "08",
+  "title": "ABOUT",
+  "description": "KNOW US",
+
+  "mediumText": "We are Meelo. \nCreative agency from NY.",
+  "smallText": "Natus error sit volup em in heavy atoms star stuff.",
+  "paragraphs": [
+    "Minim veniam, quis nostrud exerci tation ullam corper suscipit lobortis nisl ut aliquip ex ea com modo consequat duis autem vel eumiriu dolor in hendrerit in vulputate velit esse molestie con.",
+    "Dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla."
+  ],
+
+  "internalLink": {
+    "to": "contact",
+    "text": "CONTACT US"
+  },
+  "events": [
+    {
+      "content": "Flatland tingling of the spine, a billion trillion science paroxysm of global death permanence",
+      "date": "2015"
+    },
+    {
+      "content": "Rings of Uranus the only home we've ever known. Permanence of the stars Tunguska event Drake Equation encyclopaedia galactica great turbulent clouds vangelis the sky calls to us rich in heavy atoms something incredible is waiting to be know",
+      "date": "2017"
+    },
+    {
+      "content": "Gathered by gravity preserve and cherish that pale blue dot quasar, the carbon in our apple pies pudding",
+      "date": "2018"
+    },
+    {
+      "content": "Tendrils of gossamer clouds, the ash of stellar alchemy tendrils of true gossamer clouds vangelis the sky calls to us rich in heavy atoms something incredible",
+      "date": "2020"
+    }
+  ]
+}
